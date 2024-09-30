@@ -1,6 +1,3 @@
-
----
-
 # Conway's Game of Life
 
 ## Overview
@@ -163,5 +160,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 Special thanks to John Conway for his pioneering work in cellular automata and to the Haskell community for providing a rich ecosystem for functional programming.
 
 ---
-
-Feel free to adjust any parts of the description to better fit your project's specifics or your preferences! If you have any more requests or need further assistance, just let me know!
